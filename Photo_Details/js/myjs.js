@@ -1,5 +1,6 @@
 // Mapping names to photos
 const photos = {
+    "laasya":"images/laasya.jpg,
     "guido": "images/guido.jpg",
     "dennis": "images/dennis.jpg",
     "james": "images/james.jpg",
@@ -20,6 +21,7 @@ const photos = {
 
 // Mapping names to details
 const details = {
+    "laasya": "IT Branch Roll no 23951A1255",
     "guido": "Guido van Rossum created Python in 1991.",
     "dennis": "Dennis Ritchie developed C and co-created UNIX.",
     "james": "James Gosling invented Java in 1995.",
